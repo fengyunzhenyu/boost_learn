@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stu>
+  <name id="1000">小明</name>
+  <age>10</age>
+  <score>8.23</score>
+  <lesson>
+    <name>语文</name>
+    <name>数学</name>
+  </lesson>
+</stu>
